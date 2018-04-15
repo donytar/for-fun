@@ -9,4 +9,8 @@ public class ListNode {
     public ListNode(String data) {
         this.data = data;
     }
+
+    public ListNode() {
+
+    }
 }
